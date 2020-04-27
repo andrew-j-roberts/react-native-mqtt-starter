@@ -27,6 +27,7 @@ Read the [React Native docs](https://reactnative.dev/docs/environment-setup) if 
 ```
 git clone https://github.com/andrew-j-roberts/react-native-mqtt-starter.git
 npm install -g expo-cli
+cd react-native-mqtt-starter
 yarn install
 ```
 
