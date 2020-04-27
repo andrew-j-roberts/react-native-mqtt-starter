@@ -9,7 +9,7 @@
  * Learn how to get started with Solace PubSub+ and event-driven architecture here: https://www.solace.dev/
  */
 
-// import "node-libs-react-native/globals"; // try commenting this out if you want to see why we need it
+import "node-libs-react-native/globals"; // try commenting this out if you want to see why we need it
 import React, { useEffect, useState } from "react";
 import { StyleSheet, View, Text, Button } from "react-native";
 import { createMqttClient } from "./mqtt-client";
