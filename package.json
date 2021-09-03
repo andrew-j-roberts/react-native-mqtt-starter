@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "expo": "~37.0.3",
-    "immer": "^6.0.3",
+    "immer": "^9.0.6",
     "mqtt": "^4.0.0",
     "node-libs-react-native": "^1.2.0",
     "react": "~16.9.0",
